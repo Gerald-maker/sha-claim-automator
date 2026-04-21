@@ -86,7 +86,7 @@ sha-claim-automator/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Gerald-makernext/sha-claim-automator.git
+git clone https://github.com/Gerald-maker/sha-claim-automator.git
 cd sha-claim-automator
 ```
 
@@ -191,8 +191,8 @@ This project is licensed under the **MIT License** — feel free to use and adap
 
 ## 👤 Author
 
-**Gerald**
-- GitHub: [@Gerald-makernext](https://github.com/Gerald-makernext)
+**Gerald-maker**
+- GitHub: https://github.com/Gerald-maker/sha-claim-automator.git
 
 ---
 
